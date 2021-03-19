@@ -1,0 +1,17 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: flex-end;
+    background: radial-gradient(circle, rgb(238, 174, 202) 0%, rgb(66, 105, 152) 100%)
+}
+
+img {
+    position: absolute;
+    left: 25%;
+    top: 25%;
+    width: 50%;
+    height: 50%;
+}
